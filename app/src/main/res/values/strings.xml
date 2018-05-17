@@ -1,3 +1,5 @@
-<resources>
-    <string name="app_name">Helloandroid</string>
-</resources>
+<?xml version="1.0" encoding="utf-8"?>
+   <resources>
+    <String name="app_name">画面部品サンプル</String>
+    <string name="tv_msg">お名前を入力してください</string>
+   </resources> ?>
